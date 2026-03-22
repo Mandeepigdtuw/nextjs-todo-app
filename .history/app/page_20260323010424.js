@@ -55,7 +55,7 @@ export default function Home() {
           marginBottom: "20px",
           color: "green",
         }}>
-        Mandeep&apos;s Powered By :
+        Sujal Agrawal's Powered By :
       </div>
       <div
         style={{
